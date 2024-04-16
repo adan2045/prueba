@@ -1,0 +1,44 @@
+.login_cont{
+	padding-top: 6em;
+}
+
+.login_form{
+	border-radius: 10px;
+	background: white;
+	padding: 1em;
+	box-shadow: 1px 1px 7px 2px #c5c5c5;
+}
+
+.login_title{
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 0.5em;
+	color: #333;
+
+}
+
+.input_group{
+	margin-bottom: 1em;
+}
+
+.input_group input, .input_group select{
+	width: 100%;
+	padding: 0.5em;
+	border-radius: 4px;
+	border: 1px solid grey;
+}
+
+.input_group button{
+	border: none;
+    padding: 0.5em 1em;
+    border-radius: 8px;
+    background: #2280e5;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.input_error{
+	font-style: italic;
+}
